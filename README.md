@@ -38,12 +38,12 @@ I am a Computer Science student at **BITS Pilani (Scaler School of Technology)**
 ### ⚡ GitHub Activity
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=yashwardhan-singh&show_icons=true&theme=tokyonight&count_private=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashwardhan-singh&layout=compact&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Yashwardhan-ed&show_icons=true&theme=tokyonight&count_private=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashwardhan-ed&layout=compact&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yashwardhan-singh&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yashwardhan-ed&theme=tokyonight" />
 </p>
 
 ---
