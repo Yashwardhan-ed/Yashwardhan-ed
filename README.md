@@ -1,4 +1,4 @@
-# <align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Yashwardhan%20Singh&fontSize=80&animation=fadeIn&fontAlignY=35" /> </p>
+<align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Yashwardhan%20Singh&fontSize=80&animation=fadeIn&fontAlignY=35" /> </p>
 
 <p align="center">
   <a href="https://linkedin.com/in/yashwardhan-singh"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
